@@ -31,6 +31,6 @@ jobs:
       run: |
         python -m unittest test_division.py
         
-    - name: Run test multiplicacion
+    - name: Run test multiplicación
       run: |
         python -m unittest test_multiplicacion.py
